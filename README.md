@@ -2,6 +2,10 @@ Please see the releases folder for packages.
 
 ## VTAgentAssist
 A desktop app to display messages and information to an agent after from processing the audio through VoizTrail's AI engine.
+
+#### 1.1.1 2025-12-02
+* MSI packaging tuneup to address .NET discovery gap
+
 #### 1.1.0 2025-12-01
 * In-progress indicator window when call begins.
 * Multi-instance check & prevention
